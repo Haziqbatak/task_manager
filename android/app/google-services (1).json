@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641814544099",
+    "project_id": "auth2-eb250",
+    "storage_bucket": "auth2-eb250.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641814544099:android:a6ea83e908397681318fd6",
+        "android_client_info": {
+          "package_name": "com.example.task_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8aiEqrEsBOa5Mi4FMbDRYAkx_1I_oiRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
